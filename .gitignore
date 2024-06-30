@@ -24,7 +24,9 @@ chrome-profiler-events*.json
 
 # IDE - VSCode
 .history/*
-.vscode/*
+./vscode/
+# IDE - VSCode
+.history/*
 
 # misc
 /.sass-cache
